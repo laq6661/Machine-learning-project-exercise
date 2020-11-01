@@ -1,2 +1,3 @@
-# Prediction-of-air-temperature-by-linear-regression
+# Predictio
 A simple temperature prediction project, keras+pandas
+
