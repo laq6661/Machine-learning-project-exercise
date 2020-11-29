@@ -9,3 +9,8 @@ The average data of the maximum temperature every two days from 1980 to 2020 are
 #2.sklearn_week2.ipynb
 Use sk_learn to realize logical regression and simply deal with mnist data sets, and output weight heat map dataset:https://www.openml.org/d/554
 sk_learn逻辑回归简单处理了mnist数据集，并书输出了权重热图
+
+#3.iris_data_dense_tf2.0.ipynb
+The iris data set is processed with tf2.0 functional api and a few simple dense.  96% accuracy, using early stop
+用tf2.0函数式api简单几个dense处理了iris数据集，96%精度，采用了早停
+dataset:https://www.openml.org/d/61
