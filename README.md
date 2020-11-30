@@ -14,3 +14,6 @@ sk_learn逻辑回归简单处理了mnist数据集，并书输出了权重热图
 The iris data set is processed with tf2.0 functional api and a few simple dense.  96% accuracy, using early stop
 用tf2.0函数式api简单几个dense处理了iris数据集，96%精度，采用了早停
 dataset:https://www.openml.org/d/61
+
+#4 kaggle_race_logist.ipynb
+tf2.0 和一些浮点数和类别特征处理 ， embedding和简单logist实现，数据集因为是kaggle比赛的不能提供。但代码精简漂亮可参考
