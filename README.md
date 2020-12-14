@@ -17,3 +17,9 @@ dataset:https://www.openml.org/d/61
 
 #4 kaggle_race_logist.ipynb
 tf2.0 和一些浮点数和类别特征处理 ， embedding和简单logist实现，数据集因为是kaggle比赛的不能提供。但代码精简漂亮可参考
+
+#5 deepfm.ipynb
+kaggle race的deepfm版本
+
+#6 iris_GaussianNB.ipynb
+iris数据集用sklearn的高斯贝叶斯包做的 93%准确率
