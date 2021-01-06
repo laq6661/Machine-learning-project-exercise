@@ -24,5 +24,5 @@ kaggle race的deepfm版本
 #6 iris_GaussianNB.ipynb
 iris数据集用sklearn的高斯贝叶斯包做的 93%准确率
 
-#mnist784_linear.ipynb
+#7 mnist784_linear.ipynb
 mnist数据集用cnn进行了简单处理
