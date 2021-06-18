@@ -26,3 +26,6 @@ iris数据集用sklearn的高斯贝叶斯包做的 93%准确率
 
 #7 mnist784_linear.ipynb
 mnist数据集用cnn进行了简单处理
+
+#8 ga_knapsack_problem.ipynb
+用遗传算法解决背包问题，使用的是单点交叉和突然变异方法
